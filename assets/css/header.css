@@ -6,8 +6,7 @@ header section{
 header nav ul{
     display: flex;
     flex-direction: row;
-    align-items: center;
-    list-style: none;    
+    align-items: center; 
 }
 
 header nav ul li a{
@@ -15,4 +14,8 @@ header nav ul li a{
     color: #3394cc;
     font-weight: 400;
     
+}
+
+header section img{
+    width: 35%;
 }
